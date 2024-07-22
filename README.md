@@ -16,14 +16,16 @@ The Hangman is a classic word guessing game implemented in Python.
 Run the fllowing commands to clone the repo:
 ```bash
 git clone https://github.com/yourusername/the-hangman.git
-cd the-hangman```
+cd the-hangman
+```
 
 ### Dependecies 
 
 To install the necessary dependencies, run:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ### Run the game 
 
