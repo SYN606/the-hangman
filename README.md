@@ -4,7 +4,7 @@ The Hangman is a classic word guessing game implemented in Python.
 
 ## Features
 
-- Generates a random word using the [Random Word API](https://github.com/SYN606/the-hangman.git)
+- Generates a random word using the [Random Word API](https://random-word-api.herokuapp.com/word)
 - Utilizes the `requests` module for API interaction
 - Allows players to guess letters to uncover the hidden word
 - Includes a graphical representation of the Hangman based on incorrect guesses
@@ -13,13 +13,13 @@ The Hangman is a classic word guessing game implemented in Python.
 
 ## Installation
 ### Clone the repository:
-Run the fllowing commands to clone the repo:
+Run the following commands to clone the repo:
 ```bash
-git clone https://github.com/yourusername/the-hangman.git
+git clone https://github.com/SYN606/the-hangman.git
 cd the-hangman
 ```
 
-### Dependecies 
+### Dependencies  
 
 To install the necessary dependencies, run:
 
